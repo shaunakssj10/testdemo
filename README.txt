@@ -1,0 +1,1 @@
+This is the assignments folder html, css, js assignments will be in this folder.
